@@ -22,7 +22,7 @@ if syms:
 
 '''Here you can change the length of the password, and/or the amount of passwords created.'''
 length = 20
-amount = 10
+amount = 12
 
 
 for x in range(amount):
